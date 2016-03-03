@@ -16,19 +16,14 @@
   },
   "Organizers": [
     {
-      "Name": "Contact1",
+      "Name": "Sandy Zeng",
       "Social": {
-        "Website": "http://www.zsquad.in",
-        "Email": "something@somewhere.com"
+        "Website": "http://www.candrholdings.com",
+        "Email": "sandy.zeng@candrholdings.com"
       }
     },
-    {
-      "Name": "Contact2",
-      "Social": {
-        "Website": "http://www.ganshani.com",
-        "Email": "something@somewhere.com"
-      }
-    }
+
+  
   ],
   "Sponsors": [
     {
@@ -36,16 +31,7 @@
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
       "Link": "http://www.microsoft.com"
     },
-    {
-      "Name": "Microsoft",
-      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
-      "Link": "http://www.microsoft.com"
-    },
-    {
-      "Name": "Microsoft",
-      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
-      "Link": "http://www.microsoft.com"
-    }
+
   ],
   "Prizes": [
     {
